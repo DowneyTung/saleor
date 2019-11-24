@@ -116,7 +116,10 @@ IMAGES_MAPPING = {
 }
 
 
-CATEGORY_IMAGES = {7: "accessories.jpg", 8: "groceries.jpg", 9: "apparel.jpg"}
+CATEGORY_IMAGES = {7: "accessories.jpg", 8: "groceries.jpg", 9: "apparel.jpg", 
+                   5: "electronics.jpg", 1: "kidstoys.jpg", 22: "automotive.jpg", 
+                   18: "homegardentools.jpg", 19: "petsupplies.jpg", 17: "smarthome.jpg",
+                   21: "sportsoutdoor.jpg", 20: "beautyhealth.jpg" }
 
 COLLECTION_IMAGES = {1: "summer.jpg", 2: "clothing.jpg"}
 
