@@ -363,7 +363,7 @@
             "inlineStyleRanges": []
           }
         ],
-        "entityMap": {}
+        "entityMap": {} 
       },
       "parent": null,
       "background_image": "category-backgrounds/beautyhealth_K34bGKR.jpg",
@@ -3970,6 +3970,606 @@
     }
   },
   {
+    "model": "product.producttype",
+    "pk": 15,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Camera",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.5 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 16,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Keyboard",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.5 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 17,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Phone case",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 18,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Phone charger",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 19,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Eye glasses",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },    
+  {
+    "model": "product.producttype",
+    "pk": 20,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Lights",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 21,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Earbuds",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 22,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Smart watch",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 23,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Mattresses Topper",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 24,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Power bank",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 25,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Vacuum Cleaner",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },    
+  {
+    "model": "product.producttype",
+    "pk": 26,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Air Purifer",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 27,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Mattresses Topper",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 28,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Bag",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 29,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Gloves",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 30,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Hats",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 29,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Gloves",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 30,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Shower heads",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 31,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Knife",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 32,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Squeezer",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 33,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Necklace",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 34,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Bracelet",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },  
+  {
+    "model": "product.producttype",
+    "pk": 35,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Hemp Product",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },
+  {
+    "model": "product.producttype",
+    "pk": 36,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Ink Cartridges",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 37,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Kitchen Utensil",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },    
+  {
+    "model": "product.producttype",
+    "pk": 38,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Tool Kits",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },    
+  {
+    "model": "product.producttype",
+    "pk": 39,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Socks",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },   
+  {
+    "model": "product.producttype",
+    "pk": 40,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Curtains",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },     
+  {
+    "model": "product.producttype",
+    "pk": 41,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Heater",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },    
+  {
+    "model": "product.producttype",
+    "pk": 42,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Scooter",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },                       
+  {
     "model": "product.product",
     "pk": 61,
     "fields": {
@@ -5472,6 +6072,52 @@
       "updated_at": "2019-08-27T10:54:10.463Z",
       "charge_taxes": true,
       "weight": "0.0 kg"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 119,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 14,
+      "name": "White Hoodie",
+      "description": "Get your slouch on and be seen with a whiter than white hoodie straight from the streets. Relaxed stylin’ and profilin’ with flair.",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "Get your slouch on and be seen with a whiter than white hoodie straight from the streets. Relaxed stylin’ and profilin’ with flair.",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 9,
+      "currency": "USD",
+      "price_amount": "30.00",
+      "minimal_variant_price_amount": "30.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": []
+      }
     }
   },
   {
