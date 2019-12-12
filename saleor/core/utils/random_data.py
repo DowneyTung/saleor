@@ -113,6 +113,13 @@ IMAGES_MAPPING = {
     116: ["saleordemoproduct_cl_bogo02_1.png"],
     117: ["saleordemoproduct_cl_bogo03_1.png"],
     118: ["saleordemoproduct_cl_bogo04_1.png", "saleordemoproduct_cl_bogo04_2.png"],
+    119: ["saleordemoprodct_camera_videorecorder01_1.jpeg"],
+    120: ["saleordemoproduct_camera_miniwificamera01_1.jpeg"],
+    121: ["saleordemoproduct_computer_wifikeyboard01_1.jpeg"],
+    122: ["saleordemoproduct_carelectronics_dashcamera01_1.jpeg"],
+    123: ["saleordemoproduct_homeimprovement_airpurifier01_1.jpeg"],
+    124: ["saleordemoproduct_allbeauty_waxstrips01_1.jpeg"],
+    125: ["saleordemoproduct_camera_kidscamera01_1.jpeg"],
 }
 
 

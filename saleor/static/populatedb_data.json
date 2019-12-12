@@ -4568,7 +4568,27 @@
       "is_digital": false,
       "weight": "0.1 kg"
     }
-  },                       
+  }, 
+  {
+    "model": "product.producttype",
+    "pk": 43,
+    "fields": {
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "name": "Waxing",
+      "has_variants": true,
+      "is_shipping_required": true,
+      "is_digital": false,
+      "weight": "0.1 kg"
+    }
+  },                        
   {
     "model": "product.product",
     "pk": 61,
@@ -6091,15 +6111,15 @@
       },
       "seo_title": "",
       "seo_description": "",
-      "product_type": 14,
-      "name": "White Hoodie",
-      "description": "Get your slouch on and be seen with a whiter than white hoodie straight from the streets. Relaxed stylin’ and profilin’ with flair.",
+      "product_type": 15,
+      "name": "Video Recorder",
+      "description": "High Definition Video Recorder",
       "description_json": {
         "blocks": [
           {
             "key": "",
             "data": {},
-            "text": "Get your slouch on and be seen with a whiter than white hoodie straight from the streets. Relaxed stylin’ and profilin’ with flair.",
+            "text": "",
             "type": "unstyled",
             "depth": 0,
             "entityRanges": [],
@@ -6108,18 +6128,294 @@
         ],
         "entityMap": {}
       },              
-      "category": 9,
+      "category": 84,
       "currency": "USD",
-      "price_amount": "30.00",
+      "price_amount": " 0.00",
       "minimal_variant_price_amount": "30.00",
       "updated_at": "2019-08-27T10:54:10.463Z",
       "charge_taxes": true,
       "weight": "0.0 kg",
       "seller_info": {
-        "wechat_id": []
+        "wechat_id": ["a15268565159"]
       }
     }
   },
+  {
+    "model": "product.product",
+    "pk": 120,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 15,
+      "name": "Mini WiFi Camera",
+      "description": "Mini WiFi camera, spy camera",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 84,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "30.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["a15268565159"]
+      }
+    }
+  },  
+  {
+    "model": "product.product",
+    "pk": 121,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 16,
+      "name": "Bluetooth Keyboard",
+      "description": "Wireless Bluetooth keyboard",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 14,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "30.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["a15268565159"]
+      }
+    }
+  },   
+  {
+    "model": "product.product",
+    "pk": 122,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 15,
+      "name": "Dash Camera",
+      "description": "Dash camera for cars",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 52,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "30.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["aaayoung0719"]
+      }
+    }
+  },   
+  {
+    "model": "product.product",
+    "pk": 123,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 26,
+      "name": "Air Purifier",
+      "description": "3-in-1 HEPA Air Purifier",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 67,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "0.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["Abbylxd"]
+      }
+    }
+  },  
+  {
+    "model": "product.product",
+    "pk": 124,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 43,
+      "name": "Wax Strips",
+      "description": "hair removal wax strips",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 37,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "0.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["Abbylxd"]
+      }
+    }
+  },    
+  {
+    "model": "product.product",
+    "pk": 125,
+    "fields": {
+      "publication_date": null,
+      "is_published": true,
+      "private_meta": {},
+      "meta": {
+        "taxes": {
+          "vatlayer": {
+            "code": "standard",
+            "description": ""
+          }
+        }
+      },
+      "seo_title": "",
+      "seo_description": "",
+      "product_type": 15,
+      "name": "Kids Camera",
+      "description": "Kids camera with SD card",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },              
+      "category": 84,
+      "currency": "USD",
+      "price_amount": " 0.00",
+      "minimal_variant_price_amount": "0.00",
+      "updated_at": "2019-08-27T10:54:10.463Z",
+      "charge_taxes": true,
+      "weight": "0.0 kg",
+      "seller_info": {
+        "wechat_id": ["Abbylxd"]
+      }
+    }
+  },    
   {
     "model": "product.productvariant",
     "pk": 171,
